@@ -4,3 +4,6 @@ env
 docs/_build
 docs/_static
 docs/_templates
+.vscode
+auth.bak
+.DS_Store
